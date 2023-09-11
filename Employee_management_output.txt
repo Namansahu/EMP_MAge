@@ -1,0 +1,193 @@
+
+****************************************************
+
+Welcome to the Employee Management System
+
+****************************************************
+1. Insert  Employee details
+2. Search Employee details
+3. Show ALL details of Employees
+4. Delete Employee details
+5. Update Employee details
+6. Exit
+Enter your choice: 1
+
+Enter Employee Details:
+Enter Employee Number: 112
+Enter Employee Name: Naman
+Enter Hire Date (dd mm yyyy): 24 08 2023
+Enter Basic Salary: 100000
+Employee details added successfully!
+
+****************************************************
+
+Welcome to the Employee Management System
+
+****************************************************
+1. Insert  Employee details
+2. Search Employee details
+3. Show ALL details of Employees
+4. Delete Employee details
+5. Update Employee details
+6. Exit
+Enter your choice: 1
+
+Enter Employee Details:
+Enter Employee Number: 113
+Enter Employee Name: Annam
+Enter Hire Date (dd mm yyyy): 17 07 2023
+Enter Basic Salary: 2400000
+Employee details added successfully!
+
+****************************************************
+
+Welcome to the Employee Management System
+
+****************************************************
+1. Insert  Employee details
+2. Search Employee details
+3. Show ALL details of Employees
+4. Delete Employee details
+5. Update Employee details
+6. Exit
+Enter your choice: 1
+
+Enter Employee Details:
+Enter Employee Number: 114
+Enter Employee Name: Deva
+Enter Hire Date (dd mm yyyy): 27 08 2023
+Enter Basic Salary: 2700000
+Employee details added successfully!
+
+****************************************************
+
+Welcome to the Employee Management System
+
+****************************************************
+1. Insert  Employee details
+2. Search Employee details
+3. Show ALL details of Employees
+4. Delete Employee details
+5. Update Employee details
+6. Exit
+Enter your choice: 2
+
+Enter Employee Number to Search: 113
+
+Employee Found:
+Employee Number: 113
+Employee Name: Annam
+Hire Date: 17/07/2023
+Basic Salary: 2400000.00
+Net Salary: 3480000.00
+
+****************************************************
+
+Welcome to the Employee Management System
+
+****************************************************
+1. Insert  Employee details
+2. Search Employee details
+3. Show ALL details of Employees
+4. Delete Employee details
+5. Update Employee details
+6. Exit
+Enter your choice: 3
+
+Show ALL details of EmployeesEmployees:
+Employee Number: 112
+Employee Name: Naman
+Hire Date: 24/08/2023
+Basic Salary: 100000.00
+Net Salary: 145000.00
+
+Employee Number: 113
+Employee Name: Annam
+Hire Date: 17/07/2023
+Basic Salary: 2400000.00
+Net Salary: 3480000.00
+
+Employee Number: 114
+Employee Name: Deva
+Hire Date: 27/08/2023
+Basic Salary: 2700000.00
+Net Salary: 3915000.00
+
+
+****************************************************
+
+Welcome to the Employee Management System
+
+****************************************************
+1. Insert  Employee details
+2. Search Employee details
+3. Show ALL details of Employees
+4. Delete Employee details
+5. Update Employee details
+6. Exit
+Enter your choice: 4
+
+Enter Employee Number to Delete: 114
+Employee  details deleted successfully!
+
+****************************************************
+
+Welcome to the Employee Management System
+
+****************************************************
+1. Insert  Employee details
+2. Search Employee details
+3. Show ALL details of Employees
+4. Delete Employee details
+5. Update Employee details
+6. Exit
+Enter your choice: 5
+
+Enter Employee Number to Update: 112
+
+Enter Updated Employee Details:
+Enter Employee Number: 115
+Enter Employee Name: Naman
+Enter Hire Date (dd mm yyyy): 26 07 2024
+Enter Basic Salary: 2500000
+Employee updated successfully!
+
+****************************************************
+
+Welcome to the Employee Management System
+
+****************************************************
+1. Insert  Employee details
+2. Search Employee details
+3. Show ALL details of Employees
+4. Delete Employee details
+5. Update Employee details
+6. Exit
+Enter your choice: 3
+
+Show ALL details of EmployeesEmployees:
+Employee Number: 115
+Employee Name: Naman
+Hire Date: 26/07/2024
+Basic Salary: 2500000.00
+Net Salary: 3625000.00
+
+Employee Number: 113
+Employee Name: Annam
+Hire Date: 17/07/2023
+Basic Salary: 2400000.00
+Net Salary: 3480000.00
+
+
+****************************************************
+
+Welcome to the Employee Management System
+
+****************************************************
+1. Insert  Employee details
+2. Search Employee details
+3. Show ALL details of Employees
+4. Delete Employee details
+5. Update Employee details
+6. Exit
+Enter your choice:
